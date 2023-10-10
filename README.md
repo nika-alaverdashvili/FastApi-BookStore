@@ -1,4 +1,4 @@
-# FastApi-BookStoree
+# FastApi-BookStore
 
 FastAPI Bookstore API is a web-based application designed to manage and organize the collection
 of a virtual bookstore. It allows users to perform CRUD (create, read, update, delete) operations
@@ -34,11 +34,11 @@ To run tests, run the following command
 
 Clone the Repository:
 ```
-git clone https://github.com/nika-alaverdashvili/fastApiauth
+git clone https://github.com/nika-alaverdashvili/FastApi-BookStore
 ```
 Navigate to the Project Directory:
 ```
-cd .\fastApiauth\
+cd .\FastApi-BookStore\
 ```
 
 Create a Virtual Environment:
